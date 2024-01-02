@@ -4,7 +4,7 @@ Send an email to mouad.jbel@gmail.com For more details.
 Kindly cite our work upon any usage of our dataset: 
 @misc{jbel2023sentiment,
       title={Sentiment Analysis Dataset in Moroccan Dialect: Bridging the Gap Between Arabic and Latin Scripted dialect}, 
-      author={Mouad Jbel and Imad Hafidi and Abdulmutallib Metrane},
+      author={},
       year={2023},
       eprint={2303.15987},
       archivePrefix={arXiv},
